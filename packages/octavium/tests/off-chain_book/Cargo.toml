@@ -1,0 +1,13 @@
+[package]
+name = "off-chain-book"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+path = "../../src/off-chain_book/book.rs"
+
+[dependencies]
+# Add any external dependencies here if needed
+
+[dev-dependencies]
+# Test-specific dependencies
